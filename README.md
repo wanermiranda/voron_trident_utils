@@ -1,6 +1,9 @@
-# Those are some config I'm currently using on my voron Trident 250mm
-```
+
+## Hardware / Software
+Voron Trident 250x250x250mm - Klipper Octopi 
+Those are some config and mods I'm currently using on my printer.
 ## Description
+```
 ├── klicky # Click mode stls I used 
 ├── klicky-bed-mesh-calibrate.cfg
 ├── klicky-macros.cfg
